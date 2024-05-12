@@ -1,7 +1,5 @@
-import intro.HelloWorld;
-import intro.Person;
-import intro.PersonRepository;
-import intro.TranslationService;
+package intro;
+
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
